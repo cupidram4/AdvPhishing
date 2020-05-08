@@ -1,3 +1,6 @@
+
+#          ==  Cupid Ram  ===
+
 <p align="right">
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/uses-html.svg" ></a>
  </p>
@@ -20,6 +23,10 @@
 <a href="https://www.paypal.com/paypalme2/Goyal827"><img title="GitHub version" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
 </p>
 
+#Best Hacking videos 
+   Cupid Ram
+Link=https://www.youtube.com/channel/UCncFRigMlw7sIHoboK1KfCw
+
 # Here is Best Tutorial with Good Explaination
 Link - https://secnhack.in/advphishing-otp-bypass-phishing-tool/
 
@@ -29,14 +36,11 @@ When victim enter his credentials, you need to go to original website and use th
 # TUTORIAL [ KALI ]
 [(![des](https://user-images.githubusercontent.com/55870659/77065337-7b7de000-69b7-11ea-915d-4dad81d2e892.png)](https://www.youtube.com/watch?v=MhSb4My1lZo)
 
-# TUTORIAL [ TERMUX ]
-[(![des](https://user-images.githubusercontent.com/55870659/79192397-73119d00-7ddd-11ea-865f-9128abe2fba9.jpg)](https://www.youtube.com/watch?v=LO3hX1lLBjI)
+#for more hacking videos you tube channel
+     Cupid Ram
+  
+https://www.youtube.com/channel/UCncFRigMlw7sIHoboK1KfCw
 
-# MORE TUTORIALS 
-* GOOGLE OTP - https://youtu.be/MhSb4My1lZo
-* Installation - https://www.youtube.com/watch?v=Yv5tT-hmcYQ
-* PAYTM OTP - https://www.youtube.com/watch?v=3TB_sISTw9U
-* TIKTOK -    https://www.youtube.com/watch?v=5qc0Mgyhr7E
 
 # SCREENSHOT ( KALI )
 ![full](https://user-images.githubusercontent.com/55870659/79147250-a7f80280-7d91-11ea-894a-d7d685a6e8cb.png)
@@ -76,7 +80,7 @@ When victim enter his credentials, you need to go to original website and use th
 
 # Contact For Contribute & Issues 
 
-                                      EMAIL FOR ISSUES AND CONTRIBUTE : sg5479845@gmail.com
+                                      EMAIL FOR ISSUES AND CONTRIBUTE : Cupid Ram  you tube channel
 
 # DISCLAIMER
                                        TO BE USED FOR EDUCATIONAL PURPOSES ONLY
